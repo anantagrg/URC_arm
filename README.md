@@ -6,4 +6,4 @@
     Libraries - contains libraries written for the arm
     Microcontroller_codes - codes written for the control
 
-Clone this repo by:
+Clone this repo by: https://github.com/anantagrg/URC_arm.git
